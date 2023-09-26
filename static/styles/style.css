@@ -1,0 +1,24 @@
+
+p{
+    font-size: 20px;
+
+    background-color: rgb(208, 28, 28);|
+    text: indent 28px;
+    
+
+
+}
+.conteiner{
+    margin:10px ;
+    display: block;
+    text-align: center;
+  
+    background-color: rgb(208, 28, 28);
+}
+
+
+.conteiner>image{
+    width: 20;
+}
+
+
